@@ -20,8 +20,11 @@
 
 ## 下载
 
-- [测试文件下载（123 云盘）](https://1832993666.share.123pan.cn/123pan/Vw33Td-tP9S?pwd=20SF#)
+v0.2已发布
+- [测试文件下载（123 云盘）](https://1832993666.share.123pan.cn/123pan/Vw33Td-tP9S?pwd=20SF)
+- [测试文件下载（百度网盘）](https://pan.baidu.com/s/1h-yhgku3QS7BDAjRdSUPEA?pwd=3t69)
 - QQ 交流群：`1129846711`
+- [【腾讯文档】BUG收集](https://docs.qq.com/sheet/DSGJuZ0JNWG9IY25s?tab=BB08J2)
 
 安装需要 **APK 安装包**与配套的**完整 `.tar` 资源包**。请尽量保留原始 `.tar` 文件，以备重新导入或故障恢复。
 
