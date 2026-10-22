@@ -42,13 +42,24 @@
 - 引入国服官方中文文本与字体，持续调整字体加载和渲染，提供汉化导入及恢复功能。
 - 注意：尚未完成完整汉化。
 
+### v0.4
+
+- 优化维护后的自动更新检查、下载及登录恢复流程。
+- 修复好友跨区搜索，支持显示不同区服的同UID角色，完善区服标识和名片读取。
+- 修复好友格纳库参观及互动异常。
+- 修复兵棋排行榜，补全跨区名片查看。
+- 登录与资源导入页适配多种屏幕比例。
+- 为火力小队立绘加入传感器滤波，减少微小噪声引起的抖动。
+
 ## 下载
 
-v0.3已发布
+v0.4已发布
 - [测试文件下载（123 云盘）](https://1832993666.share.123pan.cn/123pan/Vw33Td-tP9S?pwd=20SF)
 - [测试文件下载（百度网盘）](https://pan.baidu.com/s/1h-yhgku3QS7BDAjRdSUPEA?pwd=3t69)
+- [BUG收集](https://docs.qq.com/sheet/DSGJuZ0JNWG9IY25s?tab=BB08J2)
+- [视频攻略](https://www.bilibili.com/video/BV1LypR63EsL/)
+- [账号继承](https://gf-hk.sunborngame.com/)
 - QQ 交流群：`1129846711`
-- [【腾讯文档】BUG收集](https://docs.qq.com/sheet/DSGJuZ0JNWG9IY25s?tab=BB08J2)
 
 安装需要 **APK 安装包**与配套的**完整 `.tar` 资源包**。请尽量保留原始 `.tar` 文件，以备重新导入或故障恢复。
 
